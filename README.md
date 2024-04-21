@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JcMaravilla
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Advanced Excel
-- 💞️ I’m looking to collaborate on Projects within the domain of IT world
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on Projects
 - 📫 You can reach me at https://twitter.com/jc_maravilla03
 
 <!---
